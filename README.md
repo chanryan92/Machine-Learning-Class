@@ -4,7 +4,7 @@ Machine Learning Class Exercises by Andrew Ng from Coursera
 <ul>
   <li>ex1: Linear Regression</li>
   <li>ex2: Logistic Regression</li>
-  <li>ex3 :Multi-class Classification and Neural Network</li>
+  <li>ex3: Multi-class Classification and Neural Network</li>
   <li>ex4: Neural Network Learning</li>
   <li>ex5: Regularized Linear Regression and Bias/Variance</li>
   <li>ex6: Support Vector Machines</li>
