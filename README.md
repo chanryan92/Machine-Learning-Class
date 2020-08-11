@@ -1,14 +1,16 @@
 # Machine-Learning-Class
 Machine Learning Class Exercises by Andrew Ng from Coursera
 
-ex1: Linear Regression
-ex2: Logistic Regression
-ex3: Multi-class Classification and Neural Network
-ex4: Neural Network Learning
-ex5: Regularized Linear Regression and Bias/Variance
-ex6: Support Vector Machines
-ex7: K-Means Clustering and PCA
-ex8: Anomaly Detection and Recommender Systems
+<ul>
+  <li>ex1: Linear Regression</li>
+  <li>Logistic Regression</li>
+  <li>Multi-class Classification and Neural Network</li>
+  <li>Neural Network Learning</li>
+  <li>Regularized Linear Regression and Bias/Variance</li>
+  <li>Support Vector Machines</li>
+  <li>K-Means Clustering and PCA</li>
+  <li>Anomaly Detection and Recommender Systems</li>
+</ul>
 
 ### Class:
 [Machine Learning](https://class.coursera.org/ml "Machine Learning")
